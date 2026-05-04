@@ -70,9 +70,3 @@
 | [Emotion Detection (CNN)](https://github.com/AayushSharma1003/EMOTION-DETECTION-USING-CNN-) | Real-time facial emotion detection using Convolutional Neural Networks | Python, Keras |
 | [Automatic Question Generator](https://github.com/AayushSharma1003/Automatic-Question-Generator) | NLP system that generates Wh-questions from text using spaCy & TF-IDF | Python, NLP |
 | [EN→HI Machine Translation](https://github.com/AayushSharma1003/Machine-Translation-EN-HI) | Neural machine translation with RNN, LSTM & BiLSTM + Attention | Python, TensorFlow |
-
----
-
-<p align="center">
-  <em>⭐ Star a repo if you find it interesting — it means a lot!</em>
-</p>
