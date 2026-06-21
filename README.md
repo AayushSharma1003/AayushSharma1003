@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:DB2777,100:06B6D4&height=200&section=header&text=Aayush%20Sharma&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=research%20rigor%20%C2%B7%20creative%20chaos&descSize=18&descAlignY=58&descColor=f5f5f5&animation=fadeIn" width="100%" alt="Aayush Sharma"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=760&height=50&lines=Third-year+CS+undergrad+%40+Bennett+University;I+write+papers+and+ship+production+sites;NLP+%C2%B7+Computer+Vision+%C2%B7+Generative+Interfaces;From+LoRA+fine-tuning+to+WebGL+shaders;Honest+metrics+%3E+impressive+framing" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=760&height=50&lines=Final-year+CS+undergrad+%40+Bennett+University;I+write+papers+and+ship+production+sites;NLP+%C2%B7+Computer+Vision+%C2%B7+Generative+Interfaces;From+LoRA+fine-tuning+to+WebGL+shaders;Honest+metrics+%3E+impressive+framing" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 
 <br/>
 
-> I'm a third-year CS undergrad at **Bennett University** who treats a research deadline and a `git push` to production as the same kind of fun. Most days I'm fine-tuning transformers for low-resource Indian languages or hunting deepfakes across audio and video — the rest of the time I'm bending webcam feeds into things you control with your bare hands. 📍 India
+> I'm a final-year CS undergrad at **Bennett University** who treats a research deadline and a `git push` to production as the same kind of fun. Most days I'm fine-tuning transformers for low-resource Indian languages or hunting deepfakes across audio and video — the rest of the time I'm bending webcam feeds into things you control with your bare hands. 📍 India
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:DB2777,100:06B6D4&height=2&width=100%25" width="100%" alt=""/>
@@ -37,7 +37,6 @@
 - 📄 &nbsp;**Sole-authored** a paper on parameter-efficient Hinglish hate-speech detection — LoRA on **HingRoBERTa & MuRIL**, *matching full fine-tuning while training ~0.3% of the parameters*
 - 🌐 &nbsp;Shipped **[WCPredict](https://wcpredict.in)** — a live FIFA World Cup 2026 forecasting engine (Elo → Dixon–Coles → Monte Carlo), resimulated **every hour** through GitHub Actions
 - 🎛️ &nbsp;Build **gesture-controlled WebGL experiments** — corrupt reality through your webcam, cast shaders like spells, no mouse required
-- 📐 &nbsp;Grinding **GATE 2027** on the side, because first principles never expire
 - ⚖️ &nbsp;Allergic to inflated metrics — I'd rather report the honest number than the flattering one
 
 <div align="center">
@@ -163,10 +162,6 @@ graph LR
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AayushSharma1003&bg_color=0D1117&color=06B6D4&line=DB2777&point=ffffff&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AayushSharma1003&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
-
 </div>
 
 <div align="center">
@@ -178,7 +173,6 @@ graph LR
 - 🔭 &nbsp;Pushing the deepfake architecture toward **cross-modal LoRA rank ablations** & DoRA/VeRA comparisons
 - 🧪 &nbsp;Scaling up the **Hinglish meme dataset** — OCR auto-filtering + overnight scrapes
 - 📈 &nbsp;Iterating on **WCPredict** as the real tournament unfolds
-- 🎓 &nbsp;**GATE 2027** prep: Digital Logic → COA → DSA → Algorithms → DBMS → OS
 
 <br/>
 
